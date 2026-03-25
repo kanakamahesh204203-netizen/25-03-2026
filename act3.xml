@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part PUBLIC "-//DTD CUP-BITS Book Interchange DTD v1.2//EN" "https://dtd.cambridge.org/schemas/2021/09/CUP-BITS-book1.dtd"[]>
+<play>
+<label><target target-type = "page" id = "page-69">69</target></label>
+
+    <act number="3">
+        <title>ACT 3</title>
+
+        <scene number="1">
+            <location>Padua. BAPTISTA'S house.</location>
+
+            <entrance>
+                <character>LUCENTIO</character>
+                <character>HORTENSIO</character>
+                <character>BIANCA</character>
+            </entrance>
+
+            <dialogue>
+                <speech>
+                    <speaker>LUCENTIO</speaker>
+                    <lines>
+                        <line>Fiddler, forbear; you grow too forward, sir:</line>
+                        <line>Have you so soon forgot the entertainment</line>
+                        <line>Her sister Katharina welcomed you withal?</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>HORTENSIO</speaker>
+                    <lines>
+                        <line>But, wrangling pedant, this is</line>
+                        <line>The patroness of heavenly harmony:</line>
+                        <line>Then give me leave to have prerogative;</line>
+                        <line>And when in music we have spent an hour,</line>
+                        <line>Your lecture shall have leisure for as much.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>LUCENTIO</speaker>
+                    <lines>
+                        <line>Preposterous ass, that never read so far</line>
+                        <line>To know the cause why music was ordain'd!</line>
+                        <line>Was it not to refresh the mind of man</line>
+                        <line>After his studies or his usual pain?</line>
+                        <line>Then give me leave to read philosophy,</line>
+                        <line>And while I pause, serve in your harmony.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>HORTENSIO</speaker>
+                    <lines>
+                        <line>Sirrah, I will not bear these braves of thine.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>BIANCA</speaker>
+                    <lines>
+                        <line>Why, gentlemen, you do me double wrong,</line>
+                        <line>To strive for that which resteth in my choice:</line>
+                        <line>I am no breeching scholar in the schools;</line>
+                        <line>I'll not be tied to hours nor 'pointed times,</line>
+                        <line>But learn my lessons as I please myself.</line>
+                        <line>And, to cut off all strife, here sit we down:</line>
+                        <line>Take you your instrument, play you the whiles;</line>
+                        <line>His lecture will be done ere you have tuned.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>HORTENSIO</speaker>
+                    <lines>
+                        <line>You'll leave his lecture when I am in tune?</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>LUCENTIO</speaker>
+                    <lines>
+                        <line>That will be never: tune your instrument.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>BIANCA</speaker>
+                    <lines>
+                        <line>Where left we last?</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>LUCENTIO</speaker>
+                    <lines>
+                        <line>Here, madam:</line>
+                        <line>'Hic ibat Simois; hic est Sigeia tellus;</line>
+                        <line>Hic steterat Priami regia celsa senis.'</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>BIANCA</speaker>
+                    <lines>
+                        <line>Construe them.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>LUCENTIO</speaker>
+                    <lines>
+                        <line>'Hic ibat,' as I told you before, 'Simois,' I am Lucentio, 'hic est,' son unto Vincentio of Pisa,</line>
+                        <line>'Sigeia tellus,' disguised thus to get your love;</line>
+                        <line>'Hic steterat,' and that Lucentio that comes a-wooing, 'Priami,' is my man Tranio, 'regia,' bearing my port, 'celsa senis,' that we might beguile the old pantaloon.</line>
+                    </lines>
+                </speech>
+
+                <speech>
+                    <speaker>HORTENSIO</speaker>
+                    <lines>
+                        <line>Madam, my instrument's in tune.</line>
+                    </lines>
+                </speech>
+
+            </dialogue>
+        </scene>
+    </act>
+	<label><target target-type = "page" id = "page-72">72</target></label>
+	
+	<document>
+  
+    <dialogue>
+      <line>Let's hear. O fie! the treble jars.</line>
+
+      <speaker>LUCENTIO</speaker>
+      <line>Spit in the hole, man, and tune again.</line>
+
+      <speaker>BIANCA</speaker>
+      <line>
+        Now let me see if I can construe it: 'Hic ibat Simois,' I know you not,
+        'hic est Sigeia tellus,' I trust you not; 'Hic steterat Priami,'
+        take heed he hear us not, 'regia,' presume not, 'celsa senis,'
+        despair not.
+      </line>
+
+      <speaker>HORTENSIO</speaker>
+      <line>Madam, 'tis now in tune.</line>
+
+      <speaker>LUCENTIO</speaker>
+      <line>All but the base.</line>
+
+      <speaker>HORTENSIO</speaker>
+      <line>The base is right; 'tis the base knave that jars.</line>
+
+      <aside>
+        <line>
+          How fiery and forward our pedant is! Now, for my life,
+          the knave doth court my love: Pedascule, I'll watch you better yet.
+        </line>
+      </aside>
+
+      <speaker>BIANCA</speaker>
+      <line>In time I may believe, yet I mistrust.</line>
+
+      <speaker>LUCENTIO</speaker>
+      <line>
+        Mistrust it not: for, sure, AEacides Was Ajax,
+        call'd so from his grandfather.
+      </line>
+    </dialogue>
+
+    <dialogue>
+      <line>
+        I must believe my master: else, I promise you, I should be arguing still upon that doubt:
+        But let it rest. Now, Licio, to you: Good masters, take it not unkindly, pray,
+        That I have been thus pleasant with you both.
+      </line>
+
+      <speaker>HORTENSIO</speaker>
+      <line>
+        You may go walk, and give me leave a while: My lessons make no music in three parts.
+      </line>
+
+      <speaker>LUCENTIO</speaker>
+      <line>Are you so formal, sir? well, I must wait,</line>
+
+      <aside>
+        <line>
+          And watch withal; for, but I be deceived,
+          Our fine musician groweth amorous.
+        </line>
+      </aside>
+
+      <speaker>HORTENSIO</speaker>
+      <line>
+        Madam, before you touch the instrument,
+        To learn the order of my fingering,
+        I must begin with rudiments of art;
+        To teach you gamut in a briefer sort,
+        More pleasant, pithy and effectual,
+        Than hath been taught by any of my trade:
+        And there it is in writing, fairly drawn.
+      </line>
+
+      <speaker>BIANCA</speaker>
+      <line>Why, I am past my gamut long ago.</line>
+
+      <speaker>HORTENSIO</speaker>
+      <line>Yet read the gamut of Hortensio.</line>
+
+      <stage>[Reads]</stage>
+      <line>
+        "Gamut" I am, the ground of all accord,
+        'A re,' to Plead Hortensio's passion;
+      </line>
+    </dialogue>
+  
+
+  
+    <dialogue>
+      <line>
+        'B mi,' Bianca, take him for thy lord,
+        'C fa ut,' that loves with all affection:
+        'D sol re,' one clef, two notes have I:
+        'E la mi,' show pity, or I die.
+        Call you this gamut? tut, I like it not:
+        Old fashions please me best; I am not so nice,
+        To change true rules for old inventions.
+      </line>
+
+      <stage>Enter a Servant</stage>
+
+      <speaker>Servant</speaker>
+      <line>
+        Mistress, your father prays you leave your books
+        And help to dress your sister's chamber up:
+        You know to-morrow is the wedding-day.
+      </line>
+
+      <speaker>BIANCA</speaker>
+      <line>Farewell, sweet masters both; I must be gone.</line>
+
+      <stage>Exeunt BIANCA and Servant</stage>
+
+      <speaker>LUCENTIO</speaker>
+      <line>Faith, mistress, then I have no cause to stay.</line>
+
+      <stage>Exit</stage>
+
+      <speaker>HORTENSIO</speaker>
+      <line>
+        But I have cause to pry into this pedant:
+        Methinks he looks as though he were in love:
+        Yet if thy thoughts, Bianca, be so humble
+        To cast thy wandering eyes on every stale,
+        Seize thee that list: if once I find thee ranging,
+        Hortensio will be quit with thee by changing.
+      </line>
+
+      <stage>Exit</stage>
+    </dialogue>
+
+</document>
+<label><target target-type = "page" id = "page-74">74</target></label>
+
+<scene number="2">
+    <location>Padua. Before BAPTISTA'S house.</location>
+
+    <entry>
+        <characters>
+            <character>BAPTISTA</character>
+            <character>GREMIO</character>
+            <character>TRANIO</character>
+            <character>KATHARINA</character>
+            <character>BIANCA</character>
+            <character>LUCENTIO</character>
+            <character>Others</character>
+        </characters>
+        <role>attendants</role>
+    </entry>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>[TO TRANIO] Signior Lucentio, this is the 'pointed day.</line>
+        <line>That Katharina and Petruchio should be married,</line>
+        <line>And yet we hear not of our son-in-law.</line>
+        <line>What will be said? what mockery will it be,</line>
+        <line>To want the bridegroom when the priest attends</line>
+        <line>To speak the ceremonial rites of marriage!</line>
+        <line>What says Lucentio to this shame of ours?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>KATHARINA</speaker>
+        <line>No shame but mine: I must, forsooth, be forced</line>
+        <line>To give my hand opposed against my heart</line>
+        <line>Unto a mad-brain rudesby full of spleen;</line>
+        <line>Who woo'd in haste and means to wed at leisure.</line>
+        <line>I told you, I, he was a frantic fool,</line>
+        <line>Hiding his bitter jests in blunt behavior:</line>
+        <line>And, to be noted for a merry man,</line>
+        <line>He'll woo a thousand, point the day of marriage,</line>
+        <line>Make feasts, invite friends, and proclaim the banns;</line>
+        <line>Yet never means to wed where he hath woo'd.</line>
+        <line>Now must the world point at poor Katharina,</line>
+        <line>And say, 'Lo, there is mad Petruchio's wife,</line>
+        <line>If it would please him come and marry her!'</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>TRANIO</speaker>
+        <line>Patience, good Katharina, and Baptista too.</line>
+        <line>Upon my life, Petruchio means but well,</line>
+        <line>Whatever fortune stays him from his word:</line>
+        <line>Though he be blunt, I know him passing wise;</line>
+        <line>Though he be merry, yet withal he's honest.</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>KATHARINA</speaker>
+        <line>Would Katharina had never seen him though!</line>
+    </dialogue>
+
+    <stage_direction>Exit weeping, followed by BIANCA and others</stage_direction>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>Go, girl; I cannot blame thee now to weep;</line>
+        <line>For such an injury would vex a very saint,</line>
+        <line>Much more a shrew of thy impatient humour.</line>
+    </dialogue>
+
+    <entry>
+        <character>BIONDELLO</character>
+    </entry>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>Master, master: news, old news, and such news as you never heard of!</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>Is it new and old too? how may that be?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>Why, is it not news, to hear of Petruchio's coming?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>Is he come?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>Why, no, sir.</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>What then?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>He is coming.</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>When will he be here?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>When he stands where I am and sees you there.</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>TRANIO</speaker>
+        <line>But say, what to thine old news?</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIONDELLO</speaker>
+        <line>Why, Petruchio is coming in a new hat and an old jerkin, a pair of old breeches thrice turned...</line>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <line>Who comes with him?</line>
+    </dialogue>
+
+</scene>
+
+<label><target target-type = "page" id = "page-77">77</target></label>
+
+<play>
+    <character name="Biondello">
+        <line>O, sir, his lackey, for all the world caparisoned like the horse; with a linen stock on one leg and a kersey boot-hose on the other, gartered with a red and blue list; an old hat and "the humour of forty fancies" pricked in't for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman's lackey.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>'Tis some odd humour pricks him to this fashion; yet oftentimes he goes but mean-apparell'd.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>I am glad he's come, howsoe'er he comes.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Why, sir, he comes not.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Didst thou not say he comes?</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Who? that Petruchio came?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Ay, that Petruchio came.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>No, sir, I say his horse comes, with him on his back.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Why, that's all one.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Nay, by Saint Jamy, I hold you a penny, a horse and a man is more than one, and yet not many.</line>
+    </character>
+
+    <stage_direction>Enter Petruchio and Grumio</stage_direction>
+
+    <character name="Petruchio">
+        <line>Come, where be these gallants? who's at home?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>You are welcome, sir.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>And yet I come not well.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>And yet you halt not.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>Not so well apparell'd as I wish you were.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Were it better, I should rush in thus.</line>
+        <line>But where is Kate? where is my lovely bride?</line>
+        <line>How does my father? Gentles, methinks you frown:</line>
+        <line>And wherefore gaze this goodly company,</line>
+        <line>As if they saw some wondrous monument,</line>
+        <line>Some comet or unusual prodigy?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Why, sir, you know this is your wedding-day:</line>
+        <line>First were we sad, fearing you would not come;</line>
+        <line>Now sadder, that you come so unprovided.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>And tell us, what occasion of import hath all so long detained you from your wife, and sent you hither so unlike yourself?</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Tedious it were to tell, and harsh to hear:</line>
+        <line>Sufficeth I am come to keep my word,</line>
+        <line>Though in some part enforced to digress;</line>
+        <line>Which, at more leisure, I will so excuse</line>
+        <line>As you shall well be satisfied withal.</line>
+        <line>But where is Kate? I stay too long from her:</line>
+        <line>The morning wears, 'tis time we were at church.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>See not your bride in these unreverent robes:</line>
+        <line>Go to my chamber; put on clothes of mine.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Not I, believe me: thus I'll visit her.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>But thus, I trust, you will not marry her.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Good sooth, even thus; therefore ha' done with words:</line>
+        <line>To me she's married, not unto my clothes:</line>
+        <line>Could I repair what she will wear in me,</line>
+        <line>As I can change these poor accoutrements,</line>
+        <line>'Twere well for Kate and better for myself.</line>
+        <line>But what a fool am I to chat with you,</line>
+    </character>
+</play>
+
+<label><target target-type = "page" id = "page-80">80</target></label>
+<play>
+    <character name="Biondello">
+        <line>O, sir, his lackey, for all the world caparisoned like the horse; with a linen stock on one leg and a kersey boot-hose on the other, gartered with a red and blue list; an old hat and "the humour of forty fancies" pricked in't for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman's lackey.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>'Tis some odd humour pricks him to this fashion; yet oftentimes he goes but mean-apparell'd.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>I am glad he's come, howsoe'er he comes.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Why, sir, he comes not.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Didst thou not say he comes?</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Who? that Petruchio came?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Ay, that Petruchio came.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>No, sir, I say his horse comes, with him on his back.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Why, that's all one.</line>
+    </character>
+
+    <character name="Biondello">
+        <line>Nay, by Saint Jamy, I hold you a penny, a horse and a man is more than one, and yet not many.</line>
+    </character>
+
+    <stage_direction>Enter Petruchio and Grumio</stage_direction>
+
+    <character name="Petruchio">
+        <line>Come, where be these gallants? who's at home?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>You are welcome, sir.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>And yet I come not well.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>And yet you halt not.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>Not so well apparell'd as I wish you were.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Were it better, I should rush in thus.</line>
+        <line>But where is Kate? where is my lovely bride?</line>
+        <line>How does my father? Gentles, methinks you frown:</line>
+        <line>And wherefore gaze this goodly company,</line>
+        <line>As if they saw some wondrous monument,</line>
+        <line>Some comet or unusual prodigy?</line>
+    </character>
+
+    <character name="Baptista">
+        <line>Why, sir, you know this is your wedding-day:</line>
+        <line>First were we sad, fearing you would not come;</line>
+        <line>Now sadder, that you come so unprovided.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>And tell us, what occasion of import hath all so long detained you from your wife, and sent you hither so unlike yourself?</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Tedious it were to tell, and harsh to hear:</line>
+        <line>Sufficeth I am come to keep my word,</line>
+        <line>Though in some part enforced to digress;</line>
+        <line>Which, at more leisure, I will so excuse</line>
+        <line>As you shall well be satisfied withal.</line>
+        <line>But where is Kate? I stay too long from her:</line>
+        <line>The morning wears, 'tis time we were at church.</line>
+    </character>
+
+    <character name="Tranio">
+        <line>See not your bride in these unreverent robes:</line>
+        <line>Go to my chamber; put on clothes of mine.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Not I, believe me: thus I'll visit her.</line>
+    </character>
+
+    <character name="Baptista">
+        <line>But thus, I trust, you will not marry her.</line>
+    </character>
+
+    <character name="Petruchio">
+        <line>Good sooth, even thus; therefore ha' done with words:</line>
+        <line>To me she's married, not unto my clothes:</line>
+        <line>Could I repair what she will wear in me,</line>
+        <line>As I can change these poor accoutrements,</line>
+        <line>'Twere well for Kate and better for myself.</line>
+        <line>But what a fool am I to chat with you,</line>
+    </character>
+</play>
+
+<label><target target-type = "page" id = "page-83">83</target></label>
+
+<play>
+  <scene>
+    <character name="BAPTISTA">
+      <line>Is't possible you will away to-night?</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>I must away to-day, before night come:</line>
+      <line>Make it no wonder; if you knew my business,</line>
+      <line>You would entreat me rather go than stay.</line>
+      <line>And, honest company, I thank you all,</line>
+      <line>That have beheld me give away myself</line>
+      <line>To this most patient, sweet and virtuous wife:</line>
+      <line>Dine with my father, drink a health to me;</line>
+      <line>For I must hence; and farewell to you all.</line>
+    </character>
+
+    <character name="TRANIO">
+      <line>Let us entreat you stay till after dinner.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>It may not be.</line>
+    </character>
+
+    <character name="GREMIO">
+      <line>Let me entreat you.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>It cannot be.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>Let me entreat you.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>I am content.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>Are you content to stay?</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>I am content you shall entreat me stay;</line>
+      <line>But yet not stay, entreat me how you can.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>Now, if you love me, stay.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>Grumio, my horse.</line>
+    </character>
+
+    <character name="GRUMIO">
+      <line>Ay, sir, they be ready: the oats have eaten the horses.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>Nay, then,</line>
+      <line>Do what thou canst, I will not go to-day;</line>
+      <line>No, nor to-morrow, not till I please myself.</line>
+      <line>The door is open, sir; there lies your way;</line>
+      <line>You may be jogging whiles your boots are green;</line>
+      <line>For me, I'll not be gone till I please myself:</line>
+      <line>'Tis like you'll prove a jolly surly groom,</line>
+      <line>That take it on you at the first so roundly.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>O Kate, content thee; prithee, be not angry.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>I will be angry: what hast thou to do?</line>
+      <line>Father, be quiet; he shall stay my leisure.</line>
+    </character>
+
+    <character name="GREMIO">
+      <line>Ay, marry, sir, now it begins to work.</line>
+    </character>
+
+    <character name="KATHARINA">
+      <line>Gentlemen, forward to the bridal dinner:</line>
+      <line>I see a woman may be made a fool,</line>
+      <line>If she had not a spirit to resist.</line>
+    </character>
+
+    <character name="PETRUCHIO">
+      <line>They shall go forward, Kate, at thy command.</line>
+      <line>Obey the bride, you that attend on her;</line>
+      <line>Go to the feast, revel and domineer,</line>
+      <line>Carouse full measure to her maidenhead,</line>
+      <line>Be mad and merry, or go hang yourselves:</line>
+      <line>But for my bonny Kate, she must with me.</line>
+      <line>Nay, look not big, nor stamp, nor stare, nor fret;</line>
+      <line>I will be master of what is mine own:</line>
+      <line>She is my goods, my chattels; she is my house,</line>
+      <line>My household-stuff, my field, my barn,</line>
+      <line>My horse, my ox, my ass, my any thing;</line>
+      <line>And here she stands, touch her whoever dare;</line>
+      <line>I'll bring mine action on the proudest he</line>
+      <line>That stops my way in Padua. Grumio,</line>
+      <line>Draw forth thy weapon, we are beset with thieves;</line>
+      <line>Rescue thy mistress, if thou be a man.</line>
+      <line>Fear not, sweet wench, they shall not touch thee, Kate:</line>
+      <line>I'll buckler thee against a million.</line>
+    </character>
+
+    <stage>
+      <direction>Exeunt PETRUCHIO, KATHARINA, and GRUMIO</direction>
+    </stage>
+
+    <character name="BAPTISTA">
+      <line>Nay, let them go, a couple of quiet ones.</line>
+    </character>
+
+    <character name="GREMIO">
+      <line>Went they not quickly, I should die with laughing.</line>
+    </character>
+
+  </scene>
+</play>
+<scene>
+    <line>Of all mad matches never was the like.</line>
+
+    <dialogue>
+        <speaker>LUCENTIO</speaker>
+        <speech>Mistress, what's your opinion of your sister?</speech>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BIANCA</speaker>
+        <speech>That, being mad herself, she's madly mated.</speech>
+    </dialogue>
+
+    <dialogue>
+        <speaker>GREMIO</speaker>
+        <speech>I warrant him, Petruchio is Kated.</speech>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <speech>
+            Neighbours and friends, though bride and bridegroom wants
+            For to supply the places at the table,
+            You know there wants no junkets at the feast.
+            Lucentio, you shall supply the bridegroom's place:
+            And let Bianca take her sister's room.
+        </speech>
+    </dialogue>
+
+    <dialogue>
+        <speaker>TRANIO</speaker>
+        <speech>Shall sweet Bianca practise how to bride it?</speech>
+    </dialogue>
+
+    <dialogue>
+        <speaker>BAPTISTA</speaker>
+        <speech>She shall, Lucentio. Come, gentlemen, let's go.</speech>
+    </dialogue>
+
+    <stage_direction>Exeunt</stage_direction>
+</scene>
+
+
+</play>
